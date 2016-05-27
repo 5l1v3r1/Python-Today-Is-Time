@@ -6,11 +6,11 @@ yazılmışdır.Sistem saatini, tarihini ve gününü gösterir.
 
 # Özellikler :
 
-*Tarih
+* Tarih
 
-*Gün
+* Gün
 
-*Zaman
+* Zaman
 
 Video : https://www.youtube.com/watch?v=VbB9WzOVVKU
 
